@@ -19,9 +19,6 @@
     </form>
 
 
-
-
-
     <form action="https://www.youtube.com/results" target=”_blank”>
         <input type="text" name="search_query">
         <button>Search YouTube</button>

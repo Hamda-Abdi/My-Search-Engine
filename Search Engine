@@ -26,15 +26,6 @@
         <input type="text" name="search_query">
         <button>Search YouTube</button>
 
-    </form>
-
-    <!--<form action="https://builtwith.com/" target=”_blank”>
-        <input type="text" name="/?https%3a%2f%2f">
-        <button>Search Built With</button>
-
-
-    </form>
-
 
 </body>
 
